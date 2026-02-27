@@ -19,8 +19,4 @@ Wilbert Cornelius Lim | Developer in Progress 🚀<br><br>💡 Interested in sof
 [![](https://visitcount.itsvg.in/api?id=wilbertlabs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🐍 Pac-Man Contribution Graph
-
-![pacman](https://github.com/USERNAME_KAMU/USERNAME_KAMU/blob/output/pacman.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -63,14 +63,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wilbertlabs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
 </p>
 
-### ⏱️ Weekly Coding Activity
-
-<p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=wilbertlabs&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Weekly Stats"/>
-</p>
-
-> ⚠️ Kartu ini butuh akun [WakaTime](https://wakatime.com) yang sudah terhubung ke editor kamu (VS Code/JetBrains/dll via plugin) dan profilnya di-set **public**. Kalau belum aktif, kartu ini akan kosong/error.
-
 ### 📌 Pinned Projects
 
 <p align="left">

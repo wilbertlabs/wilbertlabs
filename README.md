@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Hi there, I'm Wilbert Cornelius Lim" width="100%" />
+  <img src="https://raw.githubusercontent.com/wilbertlabs/wilbertlabs/main/banner.png" alt="Hi there, I'm Wilbert Cornelius Lim" width="100%" />
 </p>
 
 <p align="center">

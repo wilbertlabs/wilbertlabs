@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Wilbert Cornelius Lim 👋</h1>
-<h3 align="center">Developer in Progress 🚀</h3>
+<p align="center">
+  <img src="./banner.png" alt="Hi there, I'm Wilbert Cornelius Lim" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Interested+in+Software+Development;Learning+%26+Building+Real+Projects;Improving+Coding+Skills+Every+Day;Goal%3A+Become+a+Professional+Software+Engineer" alt="Typing SVG" />

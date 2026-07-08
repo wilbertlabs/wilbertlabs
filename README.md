@@ -1,38 +1,57 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/wilbertlabs/wilbertlabs/main/banner.png" alt="Hi there, I'm Wilbert Cornelius Lim" height="600" width="1450" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=Interested+in+Software+Development;Learning+%26+Building+Real+Projects;Improving+Coding+Skills+Every+Day;Goal%3A+Become+a+Professional+Software+Engineer" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <em>“Consistency beats talent.”</em>
 </p>
 
----
+<br>
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/wilbertcorneliuslim" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  &nbsp;
 </p>
 
-### 💻 Tech Stack
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+## 💻 Tech Stack
+
+<table>
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,php,js" alt="Python, PHP, JavaScript"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frameworks &amp; Styling</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="TailwindCSS, Bootstrap"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud &amp; Infra</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=cloudflare,gcp" alt="Cloudflare, Google Cloud"/>
+      <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6701?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud" height="48"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Design</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ### 📊 GitHub Stats
 
